@@ -1,0 +1,27 @@
+{
+  "name": "node_chatting",
+  "version": "1.0.0",
+  "description": "express chatting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSoon/node_chatting.git"
+  },
+  "keywords": [
+    "express",
+    "chatting"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevSoon/node_chatting/issues"
+  },
+  "homepage": "https://github.com/DevSoon/node_chatting#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
