@@ -21,6 +21,7 @@
 프로젝트의 library가 아니라 시스템에 설치하기 때문에 --global 옵션을 사용<br>
 명령어 nodemon은 Package.json main에 등록된 js 파일 실행
 - `npm install --global nodemon`
+- `nodemon`
 
 ### 참조
 - [Node&Soket](https://www.a-mean-blog.com/ko/blog/%EB%8B%A8%ED%8E%B8%EA%B0%95%EC%A2%8C/_/Node-JS-Socket-io-%EC%B1%84%ED%8C%85%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
