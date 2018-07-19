@@ -16,9 +16,9 @@
 - `npm install express socket.io --save`
 
 ### Nodemon
-> Nodemon이 해당 프로젝트 폴더 내의 파일들을 보고(watch) 있다가 프로젝트 코드의 수정/저장이 감지되면
- 자동으로 프로그램을 재 시작
-프로젝트의 library가 아니라 시스템에 설치하기 때문에 --global 옵션을 사용
+> Nodemon이 해당 프로젝트 폴더 내의 파일들을 보고(watch) 있다가 프로젝트 코드의 수정/저장이 감지되면<br>
+ 자동으로 프로그램을 재시작<br>
+프로젝트의 library가 아니라 시스템에 설치하기 때문에 --global 옵션을 사용<br>
 명령어 nodemon은 Package.json main에 등록된 js 파일 실행
 - `npm install --global nodemon`
 
